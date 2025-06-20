@@ -75,10 +75,7 @@
 
 ---
 
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=dnunesquispe716&show_icons=true&count_private=true&theme=tokyonight&layout=compact" height="200" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=dnunesquispe716&theme=tokyonight" height="200"/>
-</p>
+
 
 <p align="center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes">
