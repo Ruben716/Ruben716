@@ -11,20 +11,19 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🏫 Estudiante de `Ingeniería de Software con Inteligencia Artificial` en `SENATI`, Perú.
+- 🏫 Estudiante de `Ingeniería de Software `, Perú.
 - 🚀 Apasionado por resolver problemas usando software.
 - 👨‍💻 Enfocado en el desarrollo backend con `Python`, `PHP`, y `FastAPI`.
 - 🤖 Aprendiendo `WebSockets`, `Laravel`, `Bases de Datos`, `Machine Learning`.
 - ✈️ En búsqueda de nuevas `oportunidades profesionales` y colaboraciones.
 - 📅 Siempre en constante aprendizaje.
-- 📄 [MI CV AQUÍ](#) (puedes agregar el link real)
+
 
 ## 👤 Conéctate conmigo
 <p align="center">
 	<a href="mailto:dnunesquispe716@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/dnunesquispe716"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/Ruben716"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/51910050514"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/tu-linkedin"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ## 🛠️ Tecnologías que manejo
