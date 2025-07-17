@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Rubén Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=29F7FF&size=24&center=true&vCenter=true&width=800&height=80&lines=Desarrollador+de+Software+en+formación;Estudiante+de+Ingeniería+de+Software+con+IA;Apasionado+por+la+programación;Aprendiendo+tecnologías+modernas;Comprometido+con+el+crecimiento+profesional"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=29F7FF&size=24&center=true&vCenter=true&width=800&height=80&lines=Desarrollador+de+Software+en+formación;Estudiante+de+Ingeniería+de+Software;Apasionado+por+la+programación;Aprendiendo+tecnologías+modernas;Comprometido+con+el+crecimiento+profesional"></a>
 </p>
 
 <p align="center"> 
